@@ -3,9 +3,7 @@ The company collected the data on individuals who purchased a treadmill from the
 stores during the prior three months. The dataset has the following features:
 
 #### Dataset link: Aerofit_treadmill.csv
-Dataset link: Aerofit_treadmill.csv
-(https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadm
-1639992749)
+(https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/125/original/aerofit_treadmill.csv?1639992749)
 
 ##### Product Purchased: KP281, KP481, or KP781
 ##### Age: In years
